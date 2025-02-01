@@ -1,5 +1,6 @@
 # Tegar Pratama Gultom | Mobile Development
 
+![image alt](pixel-art-12601_256.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taamapratama_) 
